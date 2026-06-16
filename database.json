@@ -1,4 +1,36 @@
 {
-    "book": [],
-    "member": []
+    "book": [
+        {
+            "id": "B-bH3Ja",
+            "title": "Harry potter",
+            "author": "J K Rowling",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "2026-06-16 20:50:39"
+        },
+        {
+            "id": "B-PN1q5",
+            "title": "Wings on Fire",
+            "author": "Dr. A.P.J. Abdul Kalam",
+            "total_copies": 15,
+            "available_copies": 15,
+            "added_on": "2026-06-16 20:59:01"
+        },
+        {
+            "id": "B-7LGsh",
+            "title": "To kill a MockingBird",
+            "author": "Harper Lee",
+            "total_copies": 15,
+            "available_copies": 15,
+            "added_on": "2026-06-16 21:02:54"
+        }
+    ],
+    "member": [
+        {
+            "id": "M-tMD9t",
+            "name": "Shreyash Rawat",
+            "email": "shrey@gmail.com",
+            "borrowed": []
+        }
+    ]
 }
